@@ -1,0 +1,6 @@
+{
+  "name": "Vault",
+  "description": "A personal link library for saving, categorizing, and searching videos, posts, articles, and ebooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
